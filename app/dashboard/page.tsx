@@ -11,7 +11,7 @@ import Link from "next/link"
 // Mock data for medications
 const medications = [
   { id: 1, name: "Roaccutane", dosage: "30mg", remaining: 3, refillLink: "https://example.com/refill/roaccutane" },
-  { id: 2, name: "Carsil", dosage: "35mg", remaining: 10, refillLink: "https://example.com/refill/carsil" },
+  { id: 2, name: "Carsils", dosage: "35mg", remaining: 10, refillLink: "https://example.com/refill/carsil" },
   { id: 3, name: "CardioActive", dosage: "20ml", remaining: 1, refillLink: "https://example.com/refill/cardioactive" },
 ]
 
